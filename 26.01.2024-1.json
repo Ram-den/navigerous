@@ -1,0 +1,25 @@
+{
+    "name": "James Graham",
+    "age": 50,
+    "address": {
+        "street": "Morgan Glen",
+        "city": "West Edwardton",
+        "state": "Mississippi",
+        "zip": "08486"
+    },
+    "contact": {
+        "phone": "(589)784-9979x96136",
+        "servicePhone": "800883848"
+    },
+    "birthday": "1975-01-08",
+    "ip": "29.48.95.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside reflect carry myself control. Send else measure. His return contain particularly purpose letter not.",
+        "bio": "Try so let action project number cover. Arrive family top add culture approach. Kid gun example each five history real."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
