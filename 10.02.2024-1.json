@@ -1,0 +1,25 @@
+{
+    "name": "Michael King",
+    "age": 55,
+    "address": {
+        "street": "Patrick Crest",
+        "city": "West Patriciastad",
+        "state": "Kansas",
+        "zip": "57408"
+    },
+    "contact": {
+        "phone": "825.762.4677",
+        "servicePhone": "800039723"
+    },
+    "birthday": "1970-12-02",
+    "ip": "160.6.107.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake their work phone process send through who. Figure here process business. Site five goal.\nInto age church walk happy institution. Control pattern environment somebody.",
+        "bio": "Store well meet loss soldier price. Your word consumer city wonder treatment. Western mission window station."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
