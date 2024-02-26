@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Hudson",
+    "age": 38,
+    "address": {
+        "street": "Kim Station",
+        "city": "North Meghanstad",
+        "state": "Michigan",
+        "zip": "43632"
+    },
+    "contact": {
+        "phone": "3159999642",
+        "servicePhone": "800276501"
+    },
+    "birthday": "1987-01-07",
+    "ip": "2.161.1.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Half national friend image personal phone. Available continue special wall nation show.\nPerformance must pattern structure. Reality goal song most table remain view. By per career reach week hit can.",
+        "bio": "Last yeah new half write dark. Can church rich health. Rest during none yard help business.\nRich art house analysis take force. Current decision develop agree."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
