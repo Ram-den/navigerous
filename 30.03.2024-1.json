@@ -1,0 +1,25 @@
+{
+    "name": "Steven Robertson",
+    "age": 16,
+    "address": {
+        "street": "Lopez Oval",
+        "city": "Amyville",
+        "state": "Utah",
+        "zip": "75438"
+    },
+    "contact": {
+        "phone": "206-545-2029",
+        "servicePhone": "800523455"
+    },
+    "birthday": "2009-17-11",
+    "ip": "201.34.0.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Even raise school concern brother this officer.\nWell foot country media. Subject care production onto approach analysis image. A skill talk it expect race.",
+        "bio": "Per force understand guy. Left director white. Opportunity stay agency left week seven article. Western central treat owner."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
