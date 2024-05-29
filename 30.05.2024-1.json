@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Erickson",
+    "age": 54,
+    "address": {
+        "street": "Anderson Station",
+        "city": "Lynnstad",
+        "state": "Alaska",
+        "zip": "38878"
+    },
+    "contact": {
+        "phone": "636.663.6891x4579",
+        "servicePhone": "800354747"
+    },
+    "birthday": "1971-11-01",
+    "ip": "2.60.86.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer remain seem director goal. Reflect power stuff some with.\nWeek speech record responsibility. Prevent bank within. Seek education wind old show behind base.",
+        "bio": "Since western act another mouth production. Society brother hotel short than pressure exist.\nResource help color firm nation question receive thing."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
