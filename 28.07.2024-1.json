@@ -1,0 +1,25 @@
+{
+    "name": "Henry Garcia",
+    "age": 31,
+    "address": {
+        "street": "Tyler Mount",
+        "city": "Lake Juliaport",
+        "state": "Oklahoma",
+        "zip": "57434"
+    },
+    "contact": {
+        "phone": "+1-856-855-6899x53530",
+        "servicePhone": "800674050"
+    },
+    "birthday": "1994-24-08",
+    "ip": "65.117.1.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting charge message process admit look. Scientist already race feel program left. Degree like treat black major foot door role.",
+        "bio": "Indicate easy future smile realize investment four. These next start to."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
