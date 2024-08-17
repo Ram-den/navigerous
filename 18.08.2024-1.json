@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Donna Galvan",
+    "age": 96,
+    "address": {
+        "street": "Wood Vista",
+        "city": "Lake Bridget",
+        "state": "Pennsylvania",
+        "zip": "37538"
+    },
+    "contact": {
+        "phone": "001-697-578-6585",
+        "servicePhone": "800833455"
+    },
+    "birthday": "1929-22-09",
+    "ip": "62.45.206.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Article teach one relationship floor PM operation. Technology customer keep watch nothing. Policy throughout thing stock every school.",
+        "bio": "Brother middle foreign join quality. Democrat base ahead run.\nWe indicate candidate simple action something computer. Analysis director all politics.\nThan ground black try be several."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
