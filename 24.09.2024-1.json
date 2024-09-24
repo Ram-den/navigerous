@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Robbins",
+    "age": 95,
+    "address": {
+        "street": "Joseph Canyon",
+        "city": "Reyesstad",
+        "state": "Florida",
+        "zip": "40335"
+    },
+    "contact": {
+        "phone": "+1-938-276-8619x67575",
+        "servicePhone": "800063315"
+    },
+    "birthday": "1930-02-07",
+    "ip": "162.86.5.90",
+    "foo": "bar",
+    "profile": {
+        "about": "So close trial drive follow thing. Detail peace left general war.\nEffort require page these.\nInteresting coach back role. Perhaps account then while right wind debate.",
+        "bio": "Owner audience young approach tend indeed. Wear left line option participant. Case get front pretty.\nCountry subject modern available."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
