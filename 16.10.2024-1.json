@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Cain",
+    "age": 26,
+    "address": {
+        "street": "Wolf Knoll",
+        "city": "South Antonio",
+        "state": "Wisconsin",
+        "zip": "51244"
+    },
+    "contact": {
+        "phone": "750.628.5637x485",
+        "servicePhone": "800909164"
+    },
+    "birthday": "1999-18-08",
+    "ip": "45.104.41.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Great well rich ready. Glass travel admit law security. Structure travel half discuss. Door mouth everybody allow.",
+        "bio": "Include claim table enter word growth. Affect visit author you power high theory different. Beat program point set as or close."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
