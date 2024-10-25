@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Cooper",
+    "age": 34,
+    "address": {
+        "street": "Buckley Hollow",
+        "city": "New Stephaniemouth",
+        "state": "Connecticut",
+        "zip": "90959"
+    },
+    "contact": {
+        "phone": "657-283-1028x82065",
+        "servicePhone": "800275571"
+    },
+    "birthday": "1991-29-06",
+    "ip": "80.52.224.186",
+    "foo": "bar",
+    "profile": {
+        "about": "This film style let. Central enough throughout whom he manager main.\nTotal notice resource consumer despite imagine. Charge though eat light various. Weight across world country figure maybe.",
+        "bio": "Recently mean suffer. Later special bag scene way material north. Population save that put service keep early."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
