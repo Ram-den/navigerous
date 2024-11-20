@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Olson",
+    "age": 49,
+    "address": {
+        "street": "Bryan Shore",
+        "city": "Rogerstown",
+        "state": "Maine",
+        "zip": "23717"
+    },
+    "contact": {
+        "phone": "001-462-441-5033x2683",
+        "servicePhone": "800651607"
+    },
+    "birthday": "1976-11-06",
+    "ip": "70.68.176.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Significant pressure magazine democratic. Any inside politics. Economic former media represent story door.",
+        "bio": "Direction dream start blood cold suggest. Direction father space provide discuss much. Actually already mouth teach garden would effort."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
